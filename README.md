@@ -10,13 +10,13 @@
 
 <div align="center">
  
-I’m currently working on **life**
+ 🔭 I’m currently working on **Life & Death**
  
-I’m currently learning **life**
+ 🌱 I’m currently learning **Life & Death**
 
-Ask me about **Anything [here](https://github.com/Donez01/Donez01/issues)**
+💬 Ask me about **Anything [here](https://github.com/Donez01/Donez01/issues)**
 
-Fun fact **Kerikil is a little rock**
+⚡ Fun fact **Kerikil Is A Little Rock**
 
  </div>
  
